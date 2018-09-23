@@ -3,7 +3,7 @@
 
 ### Build the container
 ```
-$ https://github.com/SinFulNard/me.git
+$ git clone https://github.com/SinFulNard/me.git
 $ docker build -t me .
 ```
 
