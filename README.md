@@ -1,6 +1,8 @@
 
 # Its a me!
 
+This is a basic site I cloned to sit on an old domain I owned! Theme credit to; https://onepagelove.com/me
+
 ### Build the container
 ```
 $ git clone https://github.com/SinFulNard/me.git
